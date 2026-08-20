@@ -1,8 +1,8 @@
 <div align="center">
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F1F1F1&center=true&vCenter=true&random=false&width=650&lines=%E2%8A%B9+Welcome+to+my+profile!+%E2%8A%B9;%E2%8A%B9+Carlos+Eduardo+Moreira+%E2%8A%B9;%E2%8A%B9+Software+Developer+%E2%8A%B9" alt="Typing SVG">
-  </a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F1F1F1&center=true&vCenter=true&random=false&width=650&lines=%E2%8A%B9+Welcome+to+my+profile!+%E2%8A%B9;%E2%8A%B9+Carlos+Eduardo+Moreira+%E2%8A%B9;%E2%8A%B9+Software+Developer+%E2%8A%B9" alt="Typing SVG">
+</a>
 
 </div>
 
@@ -24,14 +24,20 @@ Tenho interesse principalmente em **desenvolvimento de software, automação, ba
 
 <h3 align="left">Connect with me!</h3>
 
-<p align="left">
-  <a href="https://github.com/carloseduardomoreira17">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/carlos-e-3609663b3/">
-    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
-  </a>
-</p>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/carloseduardomoreira17">
+        <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.linkedin.com/in/carlos-e-3609663b3/">
+        <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn">
+      </a>
+    </td>
+  </tr>
+</table>
 
 #
 
@@ -45,7 +51,6 @@ Tenho interesse principalmente em **desenvolvimento de software, automação, ba
   alt="Python"
   title="Python"
   width="40px"
-  style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
 />
 
@@ -53,7 +58,6 @@ Tenho interesse principalmente em **desenvolvimento de software, automação, ba
   alt="Java"
   title="Java"
   width="40px"
-  style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
 />
 
@@ -61,7 +65,6 @@ Tenho interesse principalmente em **desenvolvimento de software, automação, ba
   alt="PHP"
   title="PHP"
   width="40px"
-  style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
 />
 
@@ -69,7 +72,6 @@ Tenho interesse principalmente em **desenvolvimento de software, automação, ba
   alt="JavaScript"
   title="JavaScript"
   width="40px"
-  style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
 />
 
@@ -83,7 +85,6 @@ Tenho interesse principalmente em **desenvolvimento de software, automação, ba
   alt="MySQL"
   title="MySQL"
   width="40px"
-  style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
 />
 
@@ -91,7 +92,6 @@ Tenho interesse principalmente em **desenvolvimento de software, automação, ba
   alt="Git"
   title="Git"
   width="40px"
-  style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
 />
 
@@ -99,7 +99,6 @@ Tenho interesse principalmente em **desenvolvimento de software, automação, ba
   alt="GitHub"
   title="GitHub"
   width="40px"
-  style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
 />
 
@@ -107,7 +106,6 @@ Tenho interesse principalmente em **desenvolvimento de software, automação, ba
   alt="HTML5"
   title="HTML5"
   width="40px"
-  style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
 />
 
@@ -115,7 +113,6 @@ Tenho interesse principalmente em **desenvolvimento de software, automação, ba
   alt="CSS3"
   title="CSS3"
   width="40px"
-  style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
 />
 
@@ -125,7 +122,7 @@ Tenho interesse principalmente em **desenvolvimento de software, automação, ba
 
 <h3 align="left">GitHub Statistics</h3>
 
-<p align="center">
+<div align="center">
 
 <img
   height="180em"
@@ -137,7 +134,8 @@ Tenho interesse principalmente em **desenvolvimento de software, automação, ba
   src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=carloseduardomoreira17&layout=compact&custom_title=Most%20Used%20Languages&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff"
 />
 
-</p>
+</div>
+
 
 #
 
