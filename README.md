@@ -77,30 +77,6 @@ Tenho interesse principalmente em **desenvolvimento de software, automação, ba
 
 #
 
-#
-
-<h3 align="left">Contribution Snake</h3>
-
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/carloseduardomoreira17/carloseduardomoreira17/output/github-contribution-grid-snake-dark.svg"
-  />
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/carloseduardomoreira17/carloseduardomoreira17/output/github-contribution-grid-snake.svg"
-  />
-
-  <img
-    alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/carloseduardomoreira17/carloseduardomoreira17/output/github-contribution-grid-snake.svg"
-  />
-
-</picture>
-
 </div>
 
 #
