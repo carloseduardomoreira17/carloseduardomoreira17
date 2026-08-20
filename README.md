@@ -43,79 +43,23 @@ Tenho interesse principalmente em **desenvolvimento de software, automação, ba
 
 <h3 align="left">My Stack ~</h3>
 
-### Languages
+<h4 align="left">Languages</h4>
 
 <p align="left">
-
-<img
-  alt="Python"
-  title="Python"
-  width="40px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-/>
-
-<img
-  alt="Java"
-  title="Java"
-  width="40px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
-/>
-
-<img
-  alt="PHP"
-  title="PHP"
-  width="40px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
-/>
-
-<img
-  alt="JavaScript"
-  title="JavaScript"
-  width="40px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-/>
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" alt="Python" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45" alt="Java" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="45" alt="PHP" title="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" alt="JavaScript" title="JavaScript"/>
 </p>
 
-### Technologies & Tools
+<h4 align="left">Technologies & Tools</h4>
 
 <p align="left">
-
-<img
-  alt="MySQL"
-  title="MySQL"
-  width="40px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
-/>
-
-<img
-  alt="Git"
-  title="Git"
-  width="40px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-/>
-
-<img
-  alt="GitHub"
-  title="GitHub"
-  width="40px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
-/>
-
-<img
-  alt="HTML5"
-  title="HTML5"
-  width="40px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
-/>
-
-<img
-  alt="CSS3"
-  title="CSS3"
-  width="40px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
-/>
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="45" alt="MySQL" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" alt="Git" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="45" alt="GitHub" title="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45" alt="HTML5" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45" alt="CSS3" title="CSS3"/>
 </p>
 
 #
@@ -136,6 +80,31 @@ Tenho interesse principalmente em **desenvolvimento de software, automação, ba
 
 </div>
 
+#
+
+<h3 align="left">Contribution Snake</h3>
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/carloseduardomoreira17/carloseduardomoreira17/output/github-contribution-grid-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/carloseduardomoreira17/carloseduardomoreira17/output/github-contribution-grid-snake.svg"
+  />
+
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/carloseduardomoreira17/carloseduardomoreira17/output/github-contribution-grid-snake.svg"
+  />
+
+</picture>
+
+</div>
 
 #
 
@@ -144,4 +113,3 @@ Tenho interesse principalmente em **desenvolvimento de software, automação, ba
 ### Thanks for visiting my profile!
 
 </div>
-```
