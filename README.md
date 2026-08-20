@@ -25,15 +25,12 @@ Tenho interesse principalmente em **desenvolvimento de software, automação, ba
 <h3 align="left">Connect with me!</h3>
 
 <p align="left">
-
-<a href="https://github.com/carloseduardomoreira17">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
-</a>
-
+  <a href="https://github.com/carloseduardomoreira17">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/carlos-e-3609663b3/">
+    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
+  </a>
 </p>
 
 #
@@ -141,29 +138,6 @@ Tenho interesse principalmente em **desenvolvimento de software, automação, ba
 />
 
 </p>
-
-#
-
-<h3 align="left">Contribution Snake</h3>
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/carloseduardomoreira17/carloseduardomoreira17/output/github-contribution-grid-snake-dark.svg"
-  />
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/carloseduardomoreira17/carloseduardomoreira17/output/github-contribution-grid-snake.svg"
-  />
-
-  <img
-    align="center"
-    alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/carloseduardomoreira17/carloseduardomoreira17/output/github-contribution-grid-snake.svg"
-  />
-
-</picture>
 
 #
 
