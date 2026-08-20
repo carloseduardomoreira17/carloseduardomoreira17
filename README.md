@@ -27,6 +27,11 @@ Tenho interesse principalmente em **desenvolvimento de software, automação, ba
 <table>
   <tr>
     <td>
+      <a href="mailto:carlos.moreira13417@gmail.com">
+        <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email">
+      </a>
+    </td>
+    <td>
       <a href="https://github.com/carloseduardomoreira17">
         <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
       </a>
