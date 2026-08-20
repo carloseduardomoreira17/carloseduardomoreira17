@@ -8,11 +8,15 @@
 
 #
 
-<div align="center">
+<img
+  align="right"
+  width="400"
+  height="225"
+  alt="Carlos Eduardo"
+  src="https://github.com/user-attachments/assets/49671bd6-b01f-4430-9029-7fcc78f9851b"
+/>
 
-### Olá! Eu sou o Carlos Eduardo 👋
-
-</div>
+<h2 align="left">𝕮𝖆𝖗𝖑𝖔𝖘 𝕰𝖉𝖚𝖆𝖗𝖉𝖔 𝕸𝖔𝖗𝖊𝖎𝖗𝖆</h2>
 
 Sou estudante de **Sistemas de Informação na UTFPR** e apaixonado por tecnologia, desenvolvimento de software e hardware.
 
@@ -20,9 +24,11 @@ Atualmente, estou focado em aprimorar minhas habilidades em **Python, Java, PHP,
 
 Tenho interesse principalmente em **desenvolvimento de software, automação, bancos de dados, tecnologia e hardware**.
 
+<br clear="right"/>
+
 #
 
-<h3 align="left">Connect with me!</h3>
+<h3 align="left">𝕮𝖔𝖓𝖓𝖊𝖈𝖙 𝖜𝖎𝖙𝖍 𝖒𝖊!</h3>
 
 <table>
   <tr>
@@ -46,9 +52,9 @@ Tenho interesse principalmente em **desenvolvimento de software, automação, ba
 
 #
 
-<h3 align="left">My Stack ~</h3>
+<h3 align="left">𝕸𝖞 𝕾𝖙𝖆𝖈𝖐</h3>
 
-<h4 align="left">Languages</h4>
+<h4 align="left">𝕷𝖆𝖓𝖌𝖚𝖆𝖌𝖊𝖘</h4>
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" alt="Python" title="Python"/>
@@ -57,7 +63,7 @@ Tenho interesse principalmente em **desenvolvimento de software, automação, ba
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" alt="JavaScript" title="JavaScript"/>
 </p>
 
-<h4 align="left">Technologies & Tools</h4>
+<h4 align="left">𝕿𝖊𝖈𝖍𝖓𝖔𝖑𝖔𝖌𝖎𝖊𝖘 & 𝕿𝖔𝖔𝖑𝖘</h4>
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="45" alt="MySQL" title="MySQL"/>
@@ -69,7 +75,7 @@ Tenho interesse principalmente em **desenvolvimento de software, automação, ba
 
 #
 
-<h3 align="left">GitHub Statistics</h3>
+<h3 align="left">𝕲𝖎𝖙𝕳𝖚𝖇 𝕾𝖙𝖆𝖙𝖎𝖘𝖙𝖎𝖈𝖘</h3>
 
 <div align="center">
 
@@ -82,12 +88,34 @@ Tenho interesse principalmente em **desenvolvimento de software, automação, ba
 
 #
 
+<h3 align="left">𝕮𝖔𝖓𝖙𝖗𝖎𝖇𝖚𝖙𝖎𝖔𝖓 𝕾𝖓𝖆𝖐𝖊</h3>
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/carloseduardomoreira17/carloseduardomoreira17/output/github-contribution-grid-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/carloseduardomoreira17/carloseduardomoreira17/output/github-contribution-grid-snake.svg"
+  />
+
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/carloseduardomoreira17/carloseduardomoreira17/output/github-contribution-grid-snake.svg"
+  />
+
+</picture>
+
 </div>
 
 #
 
 <div align="center">
 
-### Thanks for visiting my profile!
+### 𝕿𝖍𝖆𝖓𝖐𝖘 𝖋𝖔𝖗 𝖛𝖎𝖘𝖎𝖙𝖎𝖓𝖌 𝖒𝖞 𝖕𝖗𝖔𝖋𝖎𝖑𝖊!
 
 </div>
