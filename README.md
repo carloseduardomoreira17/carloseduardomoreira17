@@ -70,15 +70,12 @@ Tenho interesse principalmente em **desenvolvimento de software, automação, ba
 
 <img
   height="180em"
-  src="https://github-readme-stats-two-omega-43.vercel.app/api?username=carloseduardomoreira17&show_icons=true&locale=en&hide=contribs&cache_seconds=21600&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&custom_title=GitHub%20Statistics"
-/>
-
-<img
-  height="180em"
   src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=carloseduardomoreira17&layout=compact&custom_title=Most%20Used%20Languages&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff"
 />
 
 </div>
+
+#
 
 #
 
